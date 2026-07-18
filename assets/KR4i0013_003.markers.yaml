@@ -14,6 +14,7 @@ markers:
   - {type: indent, offset: 0, content: 　, id: KR4i0013_krp_003-bkkind1}
   - {type: substitution, offset: 1, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20700}}
   - {type: punctuation, offset: 2, content: (, id: KR4i0013_krp_003-bkkpn1}
+  - {type: voice, offset: 2, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 6, content: ), id: KR4i0013_krp_003-bkkpn2}
   - {type: 'kr:newline', offset: 6, content: '
 
@@ -1103,4 +1104,4 @@ markers:
 
       ', id: KR4i0013_krp_003-bkkkrnewl205}
   back: []
-hash: sha256:1f0b5fcae7cb3604d557827006d1b0f6b81d8cf7f45deddfdf91dd5ac52d315c
+hash: sha256:f085561bdec1def6f0de2b012daa4d2e8b7085f608eb1e6d9a449a034c06a1c1
